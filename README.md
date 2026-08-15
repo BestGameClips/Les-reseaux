@@ -775,7 +775,7 @@ L'auteur de ce repository ne cautionne pas l'utilisation malveillante de ces con
 
 **Datalyx**
 
-https://discord.gg/datalyx
+https://discord.gg/WcdH49FquP
 
 ## 📖 Source principale
 
