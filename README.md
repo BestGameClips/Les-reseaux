@@ -50,7 +50,7 @@ Le cours couvre notamment :
 
 # 📖 Sommaire
 
-* [📄 Télécharger le cours en PDF](#-télécharger-le-cours-en-pdf)
+* [Télécharger le cours en PDF](#-télécharger-le-cours-en-pdf)
 * [Introduction](#-introduction)
 * [Objectifs](#-objectifs)
 * [Notions fondamentales](#-notions-fondamentales)
