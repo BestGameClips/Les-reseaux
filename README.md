@@ -50,6 +50,7 @@ Le cours couvre notamment :
 
 # 📖 Sommaire
 
+* [📄 Télécharger le cours en PDF](#-télécharger-le-cours-en-pdf)
 * [Introduction](#-introduction)
 * [Objectifs](#-objectifs)
 * [Notions fondamentales](#-notions-fondamentales)
@@ -65,6 +66,14 @@ Le cours couvre notamment :
 * [Fiche mémo](#-fiche-mémo)
 * [Avertissement](#️-avertissement)
 * [Sources et crédits](#-sources-et-crédits)
+
+---
+
+# 📄 Télécharger le cours en PDF
+
+Le cours complet est également disponible au format PDF.
+
+👉 **[📥 Télécharger le cours en PDF](./cours-reseau-cybersecurite.pdf)**
 
 ---
 
@@ -776,7 +785,6 @@ L'auteur de ce repository ne cautionne pas l'utilisation malveillante de ces con
 **Datalyx**
 
 https://discord.gg/WcdH49FquP
-
 ## 📖 Source principale
 
 Cours :
