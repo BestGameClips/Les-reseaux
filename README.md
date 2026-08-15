@@ -789,13 +789,9 @@ Le contenu de ce repository est basé sur le document de cours fourni.
 
 **Alpha**
 
-> Le nom du créateur n'est pas indiqué dans le document source.
-
 ## ✍️ Auteur de ce README
 
 **BestGameClips**
-
-> Remplace cette ligne par ton pseudo / nom GitHub.
 
 ---
 
